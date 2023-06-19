@@ -27,10 +27,8 @@
   <img src="https://i.postimg.cc/yNSSrmcK/imagen-2023-06-19-154008392.png" alt="Windows 10"/>
 </p>
 
-### Inicio (errores)
 + Cuenta con la marca de errores tanto para la contraseña como para el nombre de usuario:
   + Si las contraseñas que debes ingresar no coinciden el programa te lo advertirá mostrandote un error.
-  + En caso de no ingresar un nombre de usuario y dejar el campo vacio tambien te saldrá un error.
 <p align="center">
   <img src="https://i.postimg.cc/g0kGxmcT/imagen-2023-06-19-154257883.png" alt="Windows 10"/>
 </p>
