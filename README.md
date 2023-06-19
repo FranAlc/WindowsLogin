@@ -30,6 +30,7 @@
 + Cuenta con la marca de errores :
   + Si las contraseñas que debes ingresar no coinciden el programa te lo advertirá mostrandote un error.
 <p align="center">
+  
   <img src="https://i.postimg.cc/g0kGxmcT/imagen-2023-06-19-154257883.png" alt="Windows 10"/>
 </p>
 
@@ -75,3 +76,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/vH1Kvvvh/imagen-2023-06-19-173719150.png" alt="Windows 10"/>
 </p>
+
+
+**Perfil LinkedIn:** </br>
+`<link>` : www.linkedin.com/in/franco-galan-def
