@@ -1,4 +1,8 @@
-# Windows 10 C#
+# Windows 10<img src="https://i.postimg.cc/MKyKnswg/imagen-2023-06-19-152729086.png" style="width: 75px; " alt="Windows 10"/>
+
+
+
+
 <p align="center">
   <img src="https://i.postimg.cc/zGX53x3D/imagen-2023-06-19-150702854.png" alt="Windows 10"/>
 </p>
@@ -20,7 +24,7 @@
 
 + Iniciar sesión "sin cuenta de Microsoft"(ingresas directamente al Desktop de windows evitando logearte).
 <p align="center">
-  <img src="https://i.postimg.cc/FsZyvH2d/ingreso.png" alt="Windows 10"/>
+  <img src="https://i.postimg.cc/yNSSrmcK/imagen-2023-06-19-154008392.png" alt="Windows 10"/>
 </p>
 
 ### Inicio (errores)
@@ -28,7 +32,7 @@
   + Si las contraseñas que debes ingresar no coinciden el programa te lo advertirá mostrandote un error.
   + En caso de no ingresar un nombre de usuario y dejar el campo vacio tambien te saldrá un error.
 <p align="center">
-  <img src="https://i.postimg.cc/5t05tWw4/imagen-2023-06-19-145231886.png" alt="Windows 10"/>
+  <img src="https://i.postimg.cc/g0kGxmcT/imagen-2023-06-19-154257883.png" alt="Windows 10"/>
 </p>
 
                 
