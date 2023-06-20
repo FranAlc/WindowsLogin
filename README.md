@@ -7,7 +7,6 @@
 
 ### Explicación del proyecto:
 **En este repositorio se contiene una implementación de un proyecto en C# que simula el uso de Windows 10 con funcionalidad de inicio de sesión.**
-+ #### Ire enseñando a detalle este programa y a lo último daré un resumen técnico del funcionamiento del mismo.
 
 
 > ### Creación de usuario
